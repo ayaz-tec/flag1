@@ -1,0 +1,22 @@
+.p{
+    border: 2px solid black;
+    display: inline-block;
+}
+.a{
+    background-color: #f71313;
+    height: 450px;
+    width: 600px;
+}
+.b{
+    background-color: white;
+    height: 150px;
+    width: 600px;
+    position: absolute;
+    bottom: 280px;
+}.c{
+    background-color: #000000;
+    height:150px ;
+    width:600px ;
+    bottom: 140px;
+    position: absolute;
+}
